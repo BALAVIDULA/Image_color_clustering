@@ -1,4 +1,4 @@
-# Clustering the colors in an image using Machine Learning
+# Clustering the colors in an image using KMeans and Python
 KMeans Algorithm is used in this model to implement color seperation.
 
 ## Abstract
